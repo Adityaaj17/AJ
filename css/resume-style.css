@@ -207,6 +207,10 @@ p + h3 {
   header h2 {
     font-size: 30px;
   }
+  
+  header p {
+    font-size: 15px;  
+  }
   .profile-img {
     width: 200px;
   }
